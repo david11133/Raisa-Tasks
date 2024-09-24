@@ -41,7 +41,7 @@ This project involves processing data stored in Azure Blob Storage, focusing on 
 1. Update the Azure Blob Storage connection details in the code.
 2. Run the Python script:
    ```bash
-   python [main.py]
+   python main.py
    ```
 3. The output CSV will be saved to Azure Blob Storage as specified.
 

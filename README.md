@@ -30,15 +30,10 @@ This project involves processing data stored in Azure Blob Storage, focusing on 
 
 ### Installation
 
-1. Clone this repository:
+ Clone this repository:
    ```bash
    git clone https://github.com/david11133/Raisa-Tasks
    cd Raisa-Tasks
-   ```
-
-2. Install the necessary libraries:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ### Usage
